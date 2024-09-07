@@ -1,4 +1,4 @@
-# Lab 1 Instructions
+# Lab 0 Instructions
 --------------------
 
 **Please fill out this attendance form to get credit:** [link](https://docs.google.com/forms/d/e/1FAIpQLSer_pLVpKwYTnE0t_i_a5FMCjiBBU6eilIJFL2f39_LbMAHXQ/viewform?usp=pp_url)
@@ -24,7 +24,7 @@ Working in pairs is recommended.
 
 ## Part 1: Practicing Git
 
-1. One of you should create a new Github repo called `CS506-Lab1`. Upload `test_utils.py` and `utils.py` to the repo using the "Add file" button. Add your partner as a collaborator under Settings -> Collaborators.
+1. One of you should create a new Github repo called `CS506-Lab0`. Upload `test_utils.py` and `utils.py` to the repo using the "Add file" button. Add your partner as a collaborator under Settings -> Collaborators.
 2. Both of you should navigate to the newly created repo in a browser and create a branch off of main.
     - Name the new branch your name. Both of you should have your own branch.
 ![](creating_branch.PNG)
