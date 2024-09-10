@@ -1,7 +1,7 @@
 # Lab 0 Instructions
 --------------------
 
-**Please fill out this attendance form to get credit:** [link](https://docs.google.com/forms/d/e/1FAIpQLSer_pLVpKwYTnE0t_i_a5FMCjiBBU6eilIJFL2f39_LbMAHXQ/viewform?usp=pp_url)
+**To get credit for the lab, please show the completed work to a lab TA. They will check you off.**
 
 **Goals**:
 
